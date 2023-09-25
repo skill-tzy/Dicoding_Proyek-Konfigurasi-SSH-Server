@@ -1,0 +1,107 @@
+-- Logs begin at Sun 2023-09-17 23:50:13 UTC, end at Sun 2023-09-24 01:17:01 UTC. --
+Sep 17 23:50:27 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 17 23:50:27 web-server sshd[1018]: Server listening on 0.0.0.0 port 22.
+Sep 17 23:50:27 web-server sshd[1018]: Server listening on :: port 22.
+Sep 17 23:50:27 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 17 23:50:43 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 17 23:50:43 web-server sshd[1018]: Received signal 15; terminating.
+Sep 17 23:50:43 web-server systemd[1]: ssh.service: Succeeded.
+Sep 17 23:50:43 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+Sep 17 23:50:43 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 17 23:50:43 web-server sshd[1440]: Server listening on 0.0.0.0 port 22.
+Sep 17 23:50:43 web-server sshd[1440]: Server listening on :: port 22.
+Sep 17 23:50:43 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 17 23:57:01 web-server sshd[1440]: Received signal 15; terminating.
+Sep 17 23:57:01 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 17 23:57:01 web-server systemd[1]: ssh.service: Succeeded.
+Sep 17 23:57:01 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+Sep 17 23:57:01 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 17 23:57:01 web-server sshd[1779]: Server listening on 0.0.0.0 port 22.
+Sep 17 23:57:01 web-server sshd[1779]: Server listening on :: port 22.
+Sep 17 23:57:01 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 18 00:26:17 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 18 00:26:17 web-server systemd[1]: ssh.service: Succeeded.
+Sep 18 00:26:17 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+Sep 18 00:26:35 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 00:26:35 web-server sshd[37596]: Server listening on 0.0.0.0 port 22.
+Sep 18 00:26:35 web-server sshd[37596]: Server listening on :: port 22.
+Sep 18 00:26:35 web-server systemd[1]: Started OpenBSD Secure Shell server.
+-- Reboot --
+Sep 18 00:31:17 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 00:31:18 web-server sshd[866]: Server listening on 0.0.0.0 port 22.
+Sep 18 00:31:18 web-server sshd[866]: Server listening on :: port 22.
+Sep 18 00:31:18 web-server systemd[1]: Started OpenBSD Secure Shell server.
+-- Reboot --
+Sep 18 00:37:07 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 00:37:08 web-server sshd[866]: Server listening on 0.0.0.0 port 22.
+Sep 18 00:37:08 web-server sshd[866]: Server listening on :: port 22.
+Sep 18 00:37:08 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 18 00:38:14 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 18 00:38:14 web-server systemd[1]: ssh.service: Succeeded.
+Sep 18 00:38:14 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Reboot --
+Sep 18 00:39:37 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 00:39:37 web-server sshd[866]: Server listening on 0.0.0.0 port 22.
+Sep 18 00:39:37 web-server sshd[866]: Server listening on :: port 22.
+Sep 18 00:39:37 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 18 00:42:05 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 18 00:42:05 web-server systemd[1]: ssh.service: Succeeded.
+Sep 18 00:42:05 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Reboot --
+Sep 18 00:42:32 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 00:42:33 web-server sshd[866]: Server listening on 0.0.0.0 port 22.
+Sep 18 00:42:33 web-server sshd[866]: Server listening on :: port 22.
+Sep 18 00:42:33 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 18 03:37:33 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 18 03:37:33 web-server systemd[1]: ssh.service: Succeeded.
+Sep 18 03:37:33 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Reboot --
+Sep 18 03:38:00 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 18 03:38:00 web-server sshd[864]: Server listening on 0.0.0.0 port 22.
+Sep 18 03:38:00 web-server sshd[864]: Server listening on :: port 22.
+Sep 18 03:38:00 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 18 06:41:09 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 18 06:41:09 web-server systemd[1]: ssh.service: Succeeded.
+Sep 18 06:41:09 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Reboot --
+Sep 23 04:04:47 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 23 04:04:47 web-server sshd[871]: Server listening on 0.0.0.0 port 22.
+Sep 23 04:04:47 web-server sshd[871]: Server listening on :: port 22.
+Sep 23 04:04:47 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 23 04:08:45 web-server sshd[2056]: Accepted password for root from 192.168.10.104 port 61353 ssh2
+Sep 23 04:08:45 web-server sshd[2056]: pam_unix(sshd:session): session opened for user root by (uid=0)
+-- Reboot --
+Sep 23 23:12:00 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 23 23:12:01 web-server sshd[860]: Server listening on 0.0.0.0 port 22.
+Sep 23 23:12:01 web-server sshd[860]: Server listening on :: port 22.
+Sep 23 23:12:01 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 23 23:17:43 web-server sshd[2096]: Accepted password for root from 192.168.10.101 port 50073 ssh2
+Sep 23 23:17:43 web-server sshd[2096]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 23 23:47:54 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 23 23:47:54 web-server systemd[1]: ssh.service: Succeeded.
+Sep 23 23:47:54 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+-- Reboot --
+Sep 24 00:14:06 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 24 00:14:06 web-server sshd[907]: Server listening on 0.0.0.0 port 22.
+Sep 24 00:14:06 web-server sshd[907]: Server listening on :: port 22.
+Sep 24 00:14:06 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 24 00:15:32 web-server sshd[2016]: Accepted password for root from 192.168.10.101 port 51336 ssh2
+Sep 24 00:15:32 web-server sshd[2016]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Sep 24 00:22:54 web-server sshd[2457]: Accepted password for dicoding from 127.0.0.1 port 44638 ssh2
+Sep 24 00:22:54 web-server sshd[2457]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Sep 24 00:30:55 web-server sshd[2773]: Connection closed by authenticating user dicoding 127.0.0.1 port 44792 [preauth]
+Sep 24 00:30:56 web-server sshd[2781]: Connection closed by authenticating user dicoding 127.0.0.1 port 44804 [preauth]
+Sep 24 00:32:11 web-server sshd[2792]: Accepted password for dicoding from 127.0.0.1 port 44808 ssh2
+Sep 24 00:32:11 web-server sshd[2792]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Sep 24 00:32:51 web-server sshd[3000]: Accepted publickey for dicoding from 127.0.0.1 port 36986 ssh2: RSA SHA256:pzIs/FmCu4goNaNGHqxuLOmaETiRPt7QcMKKj8xlNSw
+Sep 24 00:32:51 web-server sshd[3000]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
+Sep 24 00:41:19 web-server sshd[907]: Received signal 15; terminating.
+Sep 24 00:41:19 web-server systemd[1]: Stopping OpenBSD Secure Shell server...
+Sep 24 00:41:19 web-server systemd[1]: ssh.service: Succeeded.
+Sep 24 00:41:19 web-server systemd[1]: Stopped OpenBSD Secure Shell server.
+Sep 24 00:41:19 web-server systemd[1]: Starting OpenBSD Secure Shell server...
+Sep 24 00:41:19 web-server sshd[3307]: Server listening on 0.0.0.0 port 2000.
+Sep 24 00:41:19 web-server sshd[3307]: Server listening on :: port 2000.
+Sep 24 00:41:19 web-server systemd[1]: Started OpenBSD Secure Shell server.
+Sep 24 00:41:38 web-server sshd[3309]: Accepted publickey for dicoding from 127.0.0.1 port 42458 ssh2: RSA SHA256:pzIs/FmCu4goNaNGHqxuLOmaETiRPt7QcMKKj8xlNSw
+Sep 24 00:41:38 web-server sshd[3309]: pam_unix(sshd:session): session opened for user dicoding by (uid=0)
