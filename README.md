@@ -1,6 +1,6 @@
 # Basic-networking
 
-Submission Menjadi Linux System Administrator - Kelas PProyek Konfigurasi SSH Server
+Submission Menjadi Linux System Administrator - Kelas Proyek Konfigurasi SSH Server
 
 ## 🚀 Deskripsi Kelas
 
