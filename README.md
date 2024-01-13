@@ -16,7 +16,22 @@ Level: Menengah
 
 <br>
 
----
+- **Pengenalan Linux** : Mengenal sistem operasi Linux dengan belajar open source, sistem operasi, dan arsitektur Linux. (2 jam)
+- **Berinteraksi dengan Linux** : Mengerti bagaimana cara berinteraksi dengan sistem operasi Linux dengan belajar shell, user, dan user management. (1 jam 40 menit)
+- **Filesystem** : Mengerti bagaimana cara bekerja dengan filesystem, mulai dari berinteraksi dengan disk, directory dan file, file permission, hingga file archiving. (2 jam 10 menit)
+- **Shell Scripting** : Mengetahui bagaimana cara menulis shell scripting yang baik dan benar, mulai dari variable, data type, control flow, function, hingga input/output. (1 jam 48 menit)
+- **Linux Services** : Mengetahui berbagai services yang tersedia di Linux dan memahami bagaimana cara pengelolaannya. (2 jam 30 menit)
+- **Pemeliharaan Sistem** : Memahami berbagai praktik dalam memelihara sistem, seperti monitoring dan logging. (1 jam 45 menit)
+- **VM dan Container** : Mengerti cara membuat serta mengelola VM dan container di sistem operasi Linux. (1 jam 30 menit)
+
+Evaluasi Pembelajaran:
+
+- Ujian akhir kelas
+- Submission (Proyek Akhir) berupa tugas untuk mengonfigurasi SSH server dengan menerapkan kriteria-kriteria yang telah ditentukan.
+  
+Total jam yang dibutuhkan untuk menyelesaikan kelas ini adalah 25 jam.
+
+## Tutorial Submission
 
 Tata cara menjalankan project:
 
