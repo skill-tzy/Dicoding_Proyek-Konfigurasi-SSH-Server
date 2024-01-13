@@ -2,6 +2,8 @@
 
 Submission Menjadi Linux System Administrator - Kelas Proyek Konfigurasi SSH Server
 
+[Sertifikat Kompetensi Kelas Menjadi Linux System Administrator](https://www.dicoding.com/certificates/NVP77Q0MOPR0)
+
 ## 🚀 Deskripsi Kelas
 
 Kelas Proyek Konfigurasi SSH Server <br>
